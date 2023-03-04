@@ -1,0 +1,28 @@
+h1,h3, label{
+    margin-left: 20px;
+}
+
+h3{
+    font-style: italic;
+}
+section{
+    background-color: grey;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#zipcode-result {
+  margin: 20px;
+  padding: 20px;
+  border: 1px solid #ccc;
+}
+
+#zipcode-result h2 {
+  margin: 0;
+  font-size: 1.5em;
+}
+
+#zipcode-result p {
+  margin: 10px 0;
+  font-size: 1.2em;
+}
+
